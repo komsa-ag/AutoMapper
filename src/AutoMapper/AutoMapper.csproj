@@ -11,8 +11,9 @@
     <PackageIcon>icon.png</PackageIcon>
     <PackageProjectUrl>https://automapper.io</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-
-    <MinVerDefaultPreReleaseIdentifiers>preview.0</MinVerDefaultPreReleaseIdentifiers>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <MinVerVersion>14.0.1</MinVerVersion>
+    <MinVerDefaultPreReleaseIdentifiers>0</MinVerDefaultPreReleaseIdentifiers>
     <MinVerTagPrefix>v</MinVerTagPrefix>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
